@@ -1,0 +1,7 @@
+#main,#line,#pie,#piecircle{
+  width:600px;
+  height:400px;
+  background: #f7f7f7;
+  display:inline-block;
+  margin:10px;
+}
